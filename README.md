@@ -1,4 +1,4 @@
-,Perımetro del Peso del femur (cm),Peso del animal (kg)
+,Perımetro,Peso
 0,0.7943,0.0832
 1,0.7079,0.0912
 2,1.000,0.1413
